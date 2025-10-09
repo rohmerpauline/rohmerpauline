@@ -12,10 +12,6 @@ Since December 2021, I have been working as a React front-end developer at [Clim
 
 At Climact, I'm actively involved in developing low-carbon scenario calculators using React, ECharts, TypeScript, NextJs and Redux.
 
-### 🌱 I’m currently learning:
-
-In addition to my ongoing projects, I'm diving into the world of Vue.js. This exploration is driven by curiosity, as I strive to broaden my skill set and embrace new perspectives in web development. Exciting times ahead!
-
 ### 👀 I'm looking for:
 
 //
