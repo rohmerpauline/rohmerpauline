@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pauline, 31, a ✨ React front-end web developer ✨ from France 🇫🇷 living in Brussels 🇧🇪.
+I'm Pauline, a ✨ React front-end web developer ✨ from France 🇫🇷 living in Brussels 🇧🇪.
 
 After working for 4 years in digital marketing, I undertook the Junior Web Developper training at [BeCode](https://becode.org) 
 
